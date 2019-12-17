@@ -1,4 +1,4 @@
-README.md# [MODULE-3] Module 3 Angular
+# [MODULE-3] Module 3 Angular
 
 ##Nội dung câu hỏi và phần trả lời
 
